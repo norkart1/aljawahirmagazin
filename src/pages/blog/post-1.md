@@ -28,3 +28,6 @@ category: Islamic
 
 5) വിചാരണ കൂടാതെ സ്വർഗത്തിൽ പ്രവേശിക്കും.
   (തൻബീഗുൽ ഗാഫിലീൻ:102)
+
+
+Download pdf: https://fileport.io/BffB3p2CC8WZ
