@@ -1,8 +1,8 @@
 {
-  "title": "My Astro Blog",
-  "description": "My musings about the Astro framework",
+  "title": "Al Jawahir Magazine",
+  "description": "Islamic and General Blogs",
   "image": {
     "src": "/images/image-default.jpg",
-    "alt": "My Astro Blog"
+    "alt": "Al Jawahir Magazine"
   }
 }

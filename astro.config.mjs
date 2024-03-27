@@ -8,7 +8,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.buidld/config
 export default defineConfig({
-  site: 'https://astro-blog-cip.netlify.app',
+  site: 'https://www.aljawahirmagazin.online/',
   integrations: [image({
     serviceEntryPoint: '@astrojs/image/sharp'
   }), sitemap()]
